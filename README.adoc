@@ -1,0 +1,5 @@
+= The Junk Drawer
+// :idprefix:
+// :idseparator: -
+
+This Antora component contains assorted articles I feel obliged to put somewhere.
