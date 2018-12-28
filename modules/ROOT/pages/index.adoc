@@ -7,3 +7,5 @@ endif::[]
 :idseparator: -
 
 This page, (index.adoc in ROOT > pages) is the root page of the junk-drawer  component.
+
+This page was modified on my personal machine.
