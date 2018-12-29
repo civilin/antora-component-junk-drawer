@@ -1,1 +1,2 @@
 * xref:index.adoc[The Junk Drawer]
+** xref:the-gun-is-civilization.adoc[The Gun is Civilization]
