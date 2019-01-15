@@ -2,3 +2,4 @@
 ** xref:the-gun-is-civilization.adoc[The Gun is Civilization]
 ** xref:go-wiley-coyote.adoc[Writers are Coyotes]
 ** xref:after-steve-jobs-died.adoc[After Steve Jobs died]
+** xref:magic.adoc[Magic]
