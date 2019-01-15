@@ -1,4 +1,4 @@
 * xref:index.adoc[The Junk Drawer]
 ** xref:the-gun-is-civilization.adoc[The Gun is Civilization]
 ** xref:go-wiley-coyote.adoc[Writers are Coyotes]
-** xref:after-steve-jobs-died[After Steve Jobs died]
+** xref:after-steve-jobs-died.adoc[After Steve Jobs died]
