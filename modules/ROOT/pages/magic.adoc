@@ -1,0 +1,24 @@
+= Magic
+
+Magic is software I wrote to make Microsoft Word a single sourcing tool. "Magic" stands for**Merge and Generate Integrated Content**. Magic publishes content in multiple file formats with a minimum of effort.
+
+.Magic adds this toolbar to Microsoft Word
+image:magic_toolbar.gif[magic_toolbar]
+
+
+Magic generates PDF, CHM, and HTML files directly from Microsoft Word documents. Content is managed in Word, using simple formatting and a minimum of styles. Magic can optionally generate HTML Help projects for RoboHelp, so that the user can export additional formats, such as WebHelp.
+
+.HTML Help, Website, and PDF straight from Word, no tweaking required
+image:magic_outputs.gif[magic_outputs]
+
+Magic plays well with RoboHelp but does not require RoboHelp to perform its functions. If Microsoft Help Workshop is installed, Magic can compile CHM files. It saves PDFs using Microsoft's PDF plug-in for Microsoft Word 2007. Magic hits the sweet spot between complexity and flexibility. I designed Magic to eliminate some aspects of technical writing which I find tedious. Magic can be used as a standalone content management system or in combination with authoring tools that are compatible with HTML Help project files.
+
+The advantages of Magic are:
+
+*   **Simplicity**. Content is formatted using standard word processing conventions. Since content is separated from presentation, minimal formatting is required.
+*   **Convenience**. Generated files are production-ready and do not require tweaking.
+*   **Power**. Documents can be edited, combined, and rearranged easily. Magic adds single-sourcing features to Word, such as conditional text, document variables, and layouts that control the appearance of generated files. Magic validates source documents to detect formatting errors.
+*   **Flexibility**. Content is stored in ubiquitous .doc files. Most business users have Word, and already know how to edit documents or add comments. Magic makes help authoring easier by building on these skills.
+Magic is not for sale, and I don't distribute it. I developed Magic to increase my productivity as a technical communicator. I mention it on this site since it's been a useful authoring tool. I've created hundreds of production deliverables with it.  By the way, if you think Word sucks out of the box, I agree with you.
++
+I'm not an average Word user. To me, Word is a highly programmable document object model. As time goes by, I'll post samples to show how I customized Word to generate technical publications in a variety of formats. But this is not how I do things today.
