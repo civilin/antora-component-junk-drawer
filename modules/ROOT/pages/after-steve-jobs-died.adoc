@@ -2,8 +2,10 @@
 
 image:steve-jobs.png[]
 
-Steve Jobs left a lasting impression on my life. After Steve Jobs died on 10-5-2011, I wrote to a friend:
+Steve Jobs left a lasting impression on my life. When he died on 10-5-2011, I wrote to a friend:
 
+[verse]
+____
 In a few weeks, when lines at the Apple Store go away, I'll buy an iPhone 4S. People have speculated what "4S" stands for. I don't care what they officially call it. To me, it will be the phone "4 Steve". The "S" will remind me of Steve Jobs.
 
 Today is a sad day. Steve Jobs was my personal hero - someone I have believed in all of my adult life. You and I both argued in defense of his vision, and in the course of time, that vision proved to be consistently correct. "Insanely Great"...what passion he had!
@@ -15,3 +17,4 @@ Steve Jobs made us all geniuses by putting the Internet in our pocket. He litera
 This world needs people like Steve Jobs. May he rest in peace in the kingdom of our Lord. As far as I am concerned, one of our greatest has fallen. Our generation will not produce another like him. It marks our own passage too.
 
 Thank you Steve. You will be missed.
+____
