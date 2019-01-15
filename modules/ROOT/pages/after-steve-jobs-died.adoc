@@ -4,17 +4,14 @@ image:steve-jobs.png[]
 
 Steve Jobs left a lasting impression on my life. When he died on 10-5-2011, I wrote to a friend:
 
-[verse]
-____
-In a few weeks, when lines at the Apple Store go away, I'll buy an iPhone 4S. People have speculated what "4S" stands for. I don't care what they officially call it. To me, it will be the phone "4 Steve". The "S" will remind me of Steve Jobs.
-
-Today is a sad day. Steve Jobs was my personal hero - someone I have believed in all of my adult life. You and I both argued in defense of his vision, and in the course of time, that vision proved to be consistently correct. "Insanely Great"...what passion he had!
-
-This morning I wept as I thought back to years gone by. I thought about what technology used to be; how we labored on expensive, clunky mainframes in a culture of high priests and "users". How the Mac changed everything, how we were criticized for saying it was better. How the largest technology companies fed off his genius, criticizing every move, then copying every advance. I thought about how Jobs set out to change the world, not allowing his inner voice to be drowned out. And he did.
-
-Steve Jobs made us all geniuses by putting the Internet in our pocket. He literally changed global civilization. I wrote to him once, at the end of a long night when my sister-in-law tried to commit suicide. I thanked him for the iPhone, because we used my phone to locate the coordinates of the last cell tower she had called from. We were able to discover that she had checked into a nearby hotel, 60 miles away. The police and paramedics arrived in time. That invention of Steve Job literally saved her life. And today, she is well again. I told Steve that she struggled with cancer too.
-
-This world needs people like Steve Jobs. May he rest in peace in the kingdom of our Lord. As far as I am concerned, one of our greatest has fallen. Our generation will not produce another like him. It marks our own passage too.
-
-Thank you Steve. You will be missed.
-____
+> In a few weeks, when lines at the Apple Store go away, I'll buy an iPhone 4S. People have speculated what "4S" stands for. I don't care what they officially call it. To me, it will be the phone "4 Steve". The "S" will remind me of Steve Jobs.
+>
+> Today is a sad day. Steve Jobs was my personal hero - someone I have believed in all of my adult life. You and I both argued in defense of his vision, and in the course of time, that vision proved to be consistently correct. "Insanely Great"...what passion he had!
+>
+> This morning I wept as I thought back to years gone by. I thought about what technology used to be; how we labored on expensive, clunky mainframes in a culture of high priests and "users". How the Mac changed everything, how we were criticized for saying it was better. How the largest technology companies fed off his genius, criticizing every move, then copying every advance. I thought about how Jobs set out to change the world, not allowing his inner voice to be drowned out. And he did.
+>
+> Steve Jobs made us all geniuses by putting the Internet in our pocket. He literally changed global civilization. I wrote to him once, at the end of a long night when my sister-in-law tried to commit suicide. I thanked him for the iPhone, because we used my phone to locate the coordinates of the last cell tower she had called from. We were able to discover that she had checked into a nearby hotel, 60 miles away. The police and paramedics arrived in time. That invention of Steve Job literally saved her life. And today, she is well again. I told Steve that she struggled with cancer too.
+>
+> This world needs people like Steve Jobs. May he rest in peace in the kingdom of our Lord. As far as I am concerned, one of our greatest has fallen. Our generation will not produce another like him. It marks our own passage too.
+>
+> Thank you Steve. You will be missed.
