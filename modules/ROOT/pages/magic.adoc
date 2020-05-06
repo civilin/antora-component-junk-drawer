@@ -1,4 +1,5 @@
 = Magic
+:figure-caption!: // don't add Figure 1 in front of a figure caption
 
 Magic is software I wrote to make Microsoft Word a single sourcing tool. "Magic" stands for **Merge and Generate Integrated Content**. Magic published content in multiple file formats with a minimum of effort.
 
