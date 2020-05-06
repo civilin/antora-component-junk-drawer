@@ -3,11 +3,11 @@
 
 Magic is software I wrote to make Microsoft Word a single sourcing tool. "Magic" stands for **Merge and Generate Integrated Content**. Magic published content in multiple file formats with a minimum of effort.
 
-image::magic_toolbar.gif[title="Magic added this toolbar to Microsoft Word"]
+image::magic_toolbar.gif[title="Magic added this toolbar to Microsoft Word."]
 
 Magic could generate PDF, CHM, and HTML files directly from Microsoft Word documents. Content was managed in Word, using simple formatting and a minimum of styles. Magic could optionally generate HTML Help projects for RoboHelp, so that the user can export additional formats, such as WebHelp.
 
-image:::magic_outputs.gif[title="Magic used layouts to customize HTML Help, web sites, and PDF files directly from Word--with no tweaking required to generate a different output"]
+image:::magic_outputs.gif[title="Magic used layouts to generate HTML Help, web sites, and PDF files directly from Word--with no tweaking required to customize a different output."]
 
 Magic played well with RoboHelp but it did not need RoboHelp to perform its functions. If Microsoft Help Workshop was installed, Magic could compile CHM files. It saved PDFs using Microsoft's PDF plug-in for Microsoft Word 2007. Magic hit the sweet spot between complexity and flexibility. I designed Magic to eliminate tedious aspects of technical writing. I used Magic as a standalone content management system, and in combination with authoring tools that were compatible with HTML Help project files.
 
