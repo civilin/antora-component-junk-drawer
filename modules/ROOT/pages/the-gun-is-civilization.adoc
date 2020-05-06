@@ -1,4 +1,4 @@
-== The Gun is Civilization
+= The Gun is Civilization
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
