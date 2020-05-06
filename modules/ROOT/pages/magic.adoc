@@ -2,8 +2,9 @@
 
 Magic is software I wrote to make Microsoft Word a single sourcing tool. "Magic" stands for **Merge and Generate Integrated Content**. Magic published content in multiple file formats with a minimum of effort.
 
-.Magic added this toolbar to Microsoft Word +
- +
+.Magic added this toolbar to Microsoft Word
+
+
 image:magic_toolbar.gif[magic_toolbar]
 
 
