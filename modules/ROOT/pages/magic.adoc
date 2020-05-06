@@ -1,7 +1,7 @@
 = Magic
 :figure-caption!: // don't add Figure 1 in front of a figure caption
 
-Magic is software I wrote to make Microsoft Word a single sourcing tool. "Magic" stands for **Merge and Generate Integrated Content**. Magic published content in multiple file formats with a minimum of effort.
+Magic is software I wrote to make Microsoft Word a single sourcing tool. "Magic" stood for **Merge and Generate Integrated Content**. Magic published content in multiple file formats with a minimum of effort.
 
 image::magic_toolbar.gif[title="Magic added this toolbar to Microsoft Word."]
 
@@ -19,4 +19,4 @@ The advantages of Magic were:
 *   **Flexibility**. Content was stored in ubiquitous .doc files. Most business users have Word, and already knew how to edit documents or add comments. Magic made help authoring easier by building on existing skills.
 Magic is not for sale, and I don't distribute it. I no longer maintain it for current versions of Word. I developed Magic to increase my productivity as a technical communicator. I mention it on this site since it was a useful authoring tool. I created hundreds of production deliverables with it. By the way, if you think Word sucks out of the box, I agree with you. And if you are using a current version of Word, I agree with you more.
 +
-I'm not an average Word user. To me, Word is a powerful programmable document object model with a horrible user interface. Magic was fun and useful in its day, but I no longer use Word or maintain Magic. Writers today have better options at their disposal.
+I'm not an average Word user. To me, Word is a powerful programmable document object model with a horrible user interface. Magic was fun and useful in its day, but I no longer use Word. Writers today have better options at their disposal.
