@@ -5,6 +5,8 @@ Magic is software I wrote to make Microsoft Word a single sourcing tool. "Magic"
 .Magic added this toolbar to Microsoft Word
 image:magic_toolbar.gif[magic_toolbar]
 
+image::magic_toolbar.gif[title="Magic added this toolbar to Microsoft Word"]
+
 Magic could generate PDF, CHM, and HTML files directly from Microsoft Word documents. Content was managed in Word, using simple formatting and a minimum of styles. Magic could optionally generate HTML Help projects for RoboHelp, so that the user can export additional formats, such as WebHelp.
 
 .HTML Help, Website, and PDF straight from Word, no tweaking required
