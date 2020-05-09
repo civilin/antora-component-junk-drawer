@@ -1,9 +1,9 @@
 = Writers are coyotes
+:figure-caption!:
 
 Successful writers have a lot in common with Wiley Coyote. Coyote is my kind of guy. He's *smart*. He's *technical*. He *learns fast*. He *never gives up*. Those are the attributes of successful writers and perhaps not coincidentally, hilarious cartoon characters.
 
-.It's merely a matter of time, Mr. Road Runner!
-image:coyote.jpg[]
+image:coyote.jpg[title="It won't be long now, Mr. Road Runner!"]
 
 When you've had a hard day writing, ask yourself:
 
