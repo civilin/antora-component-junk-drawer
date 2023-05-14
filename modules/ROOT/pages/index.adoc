@@ -8,6 +8,6 @@ endif::[]
 
 This page, (index.adoc in ROOT > pages) is the root page of the junk-drawer  component.
 
-This page was modified on my personal machine.
+This page was modified on my personal machine. Later, I used the "edit this page" link to update the source.
 
 After compiling on my personal machine using Antora 2.0, I added this line. To find out what happens if I recompile using Antora 1.1...
